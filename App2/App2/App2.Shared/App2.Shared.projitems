@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>3ef0a45b-3c87-434d-a1a8-17573319b970</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>App2</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)calories.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Custom Tiles\SmallTile.xaml.cs">
+      <DependentUpon>SmallTile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xaml.cs">
+      <DependentUpon>LargeTileFlipIcon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xaml.cs">
+      <DependentUpon>MediumTileFlipIcon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xaml.cs">
+      <DependentUpon>WideTileFlipIcon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithIcons\LargeTileIcon.xaml.cs">
+      <DependentUpon>LargeTileIcon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithIcons\MediumTileIcon.xaml.cs">
+      <DependentUpon>MediumTileIcon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithIcons\WideTileIcon.xaml.cs">
+      <DependentUpon>WideTileIcon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithImages\LargeTileImage.xaml.cs">
+      <DependentUpon>LargeTileImage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithImages\MediumTileImage.xaml.cs">
+      <DependentUpon>MediumTileImage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithImages\WideTileImage.xaml.cs">
+      <DependentUpon>WideTileImage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Details.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DetailsParts.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DietsClass.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FinalList.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IsolatedStorageHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Nutrition.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ouzen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Prog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Programclass.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SQLite.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SQLiteAsync.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TempDiets.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TempGoal.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Tips.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)User.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Weightclass.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)a1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)a2.png" />
+    <Content Include="$(MSBuildThisFileDirectory)a3.png" />
+    <Content Include="$(MSBuildThisFileDirectory)a4.png" />
+    <Content Include="$(MSBuildThisFileDirectory)a5.png" />
+    <Content Include="$(MSBuildThisFileDirectory)a6.png" />
+    <Content Include="$(MSBuildThisFileDirectory)a7.png" />
+    <Content Include="$(MSBuildThisFileDirectory)a8.png" />
+    <Content Include="$(MSBuildThisFileDirectory)a9.png" />
+    <Content Include="$(MSBuildThisFileDirectory)About.png" />
+    <Content Include="$(MSBuildThisFileDirectory)About1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)arrowleft.png" />
+    <Content Include="$(MSBuildThisFileDirectory)arrowright.png" />
+    <Content Include="$(MSBuildThisFileDirectory)book.png" />
+    <Content Include="$(MSBuildThisFileDirectory)chi.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)diet.png" />
+    <Content Include="$(MSBuildThisFileDirectory)diets.png" />
+    <Content Include="$(MSBuildThisFileDirectory)first_use1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)first_use4.png" />
+    <Content Include="$(MSBuildThisFileDirectory)first_use44.png" />
+    <Content Include="$(MSBuildThisFileDirectory)flogo.png" />
+    <Content Include="$(MSBuildThisFileDirectory)glogo.png" />
+    <Content Include="$(MSBuildThisFileDirectory)goal.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Home.png" />
+    <Content Include="$(MSBuildThisFileDirectory)ic_drawer.png" />
+    <Content Include="$(MSBuildThisFileDirectory)images.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)karim.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)karim.png" />
+    <Content Include="$(MSBuildThisFileDirectory)lo.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Log-Book.png" />
+    <Content Include="$(MSBuildThisFileDirectory)logoapp.png" />
+    <Content Include="$(MSBuildThisFileDirectory)logout1.png" />
+    <Content Include="$(MSBuildThisFileDirectory)logout2.png" />
+    <Content Include="$(MSBuildThisFileDirectory)pause.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Play-button-blue.png" />
+    <Content Include="$(MSBuildThisFileDirectory)reloadd.png" />
+    <Content Include="$(MSBuildThisFileDirectory)scale.png" />
+    <Content Include="$(MSBuildThisFileDirectory)star.png" />
+    <Content Include="$(MSBuildThisFileDirectory)bart.png" />
+    <Content Include="$(MSBuildThisFileDirectory)start.png" />
+    <Content Include="$(MSBuildThisFileDirectory)steps2s.png" />
+    <Content Include="$(MSBuildThisFileDirectory)tofehs.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Weight-in.png" />
+    <Content Include="$(MSBuildThisFileDirectory)zz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="$(MSBuildThisFileDirectory)Common\StandardStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Custom Tiles\SmallTile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithIcons\LargeTileIcon.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithIcons\MediumTileIcon.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithIcons\WideTileIcon.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithImages\LargeTileImage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithImages\MediumTileImage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="$(MSBuildThisFileDirectory)Custom Tiles\TilesWithImages\WideTileImage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

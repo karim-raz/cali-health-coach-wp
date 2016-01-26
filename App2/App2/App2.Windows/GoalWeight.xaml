@@ -1,0 +1,57 @@
+﻿<Page
+    x:Class="App2.GoalWeight"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" 
+>
+
+    <Page.BottomAppBar>
+        <CommandBar Height="98" Background="#FF1E88E5">
+            <AppBarButton Icon="Back" Label="back" Click="AppBarButton_Click" />
+            <AppBarButton Icon="Forward" Label="next" Click="AppBarButton_Click_1" />
+
+
+
+        </CommandBar>
+
+    </Page.BottomAppBar>
+
+
+    <Grid Background="White" >
+        
+        <TextBlock Margin="10,20,10,473" TextWrapping="Wrap" FontSize="27" TextAlignment="Center"  Foreground="#FF1E88E5">
+        	<Run Text="What is Your "/>
+        	<Run Text="Target Weight"/>
+        </TextBlock>
+        <Image Name="bmipic" Margin="480,663,471,78"  Stretch="Fill"/>
+
+        <ListView  ScrollViewer.VerticalScrollBarVisibility="Visible" SelectionChanged="WeightList_SelectionChanged_1"  Name="WeightList" ItemsSource="{Binding}"   Margin="610,125,566,237" DragLeave="WeightList_DragLeave" Tapped="WeightList_Tapped" DragItemsStarting="WeightList_DragItemsStarting">
+            <ListView.ItemTemplate >
+
+                <DataTemplate  >
+
+                    <StackPanel   Orientation="Horizontal" HorizontalAlignment="Center" >
+
+                        <StackPanel   Orientation="Horizontal" HorizontalAlignment="Center" >
+        
+
+                                <TextBlock Foreground="#ff1e88e5" Text="{Binding Weight}"  TextWrapping="Wrap"   FontSize="48" HorizontalAlignment="Center"  ></TextBlock>
+                        
+                        </StackPanel>
+                    </StackPanel>
+
+                </DataTemplate>
+
+            </ListView.ItemTemplate>
+
+
+        </ListView>
+        <Image Margin="785,272,428,357" Source="arrowright.png" Stretch="Fill"/>
+        <Image Margin="415,272,782,357" Source="arrowleft.png" Stretch="Fill"/>
+        <TextBlock TextAlignment="Center" Margin="200,536,206,194" Foreground="#FF1E88E5" TextWrapping="Wrap" FontSize="20" Text="Your healthy weight range"/>
+
+    </Grid>
+</Page>

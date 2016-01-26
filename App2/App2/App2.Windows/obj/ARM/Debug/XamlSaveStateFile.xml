@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\chi\desktop\app2\app2\app2.windows\obj\arm\debug\intermediatexaml\app2.windows.exe" HashGuid="c1579fbc-6c4e-c115-5c11-b63fcbc12269" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\utilisateur\desktop\esprit\4sim1\projects\cali karimrazouane chiheb manai 4sim1\cali wp\app2\packages\newtonsoft.json.7.0.1-beta3\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="328df7c5-321a-a08e-a400-8dde727da031" />
+    <ReferenceAssembly PathName="c:\users\utilisateur\desktop\esprit\4sim1\projects\cali karimrazouane chiheb manai 4sim1\cali wp\app2\packages\winrtxamltoolkit.controls.datavisualization.windows.1.8.1.0\lib\netcore451\winrtxamltoolkit.controls.datavisualization.dll" HashGuid="f8fd8bd3-9eeb-d528-57f8-6c7d71980f08" />
+    <ReferenceAssembly PathName="c:\users\utilisateur\desktop\esprit\4sim1\projects\cali karimrazouane chiheb manai 4sim1\cali wp\app2\packages\winrtxamltoolkit.windows.1.8.1.0\lib\netcore451\winrtxamltoolkit.dll" HashGuid="252c629a-ba8b-17d0-82a6-1ab8df5964bb" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

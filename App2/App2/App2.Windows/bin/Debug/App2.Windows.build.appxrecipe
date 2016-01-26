@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LENOVO-PC</Machine>
+    <WindowsUser>Utilisateur</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9c8877cd-abdc-40a8-9ec4-7d10ffe131e2</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\App2.Windows.exe">
+      <PackagePath>App2.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a1.png">
+      <PackagePath>a1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a2.png">
+      <PackagePath>a2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a3.png">
+      <PackagePath>a3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a4.png">
+      <PackagePath>a4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a5.png">
+      <PackagePath>a5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a6.png">
+      <PackagePath>a6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a7.png">
+      <PackagePath>a7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a8.png">
+      <PackagePath>a8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a9.png">
+      <PackagePath>a9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\About.png">
+      <PackagePath>About.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\About1.png">
+      <PackagePath>About1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\arrowleft.png">
+      <PackagePath>arrowleft.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\arrowright.png">
+      <PackagePath>arrowright.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\book.png">
+      <PackagePath>book.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\diet.png">
+      <PackagePath>diet.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\diets.png">
+      <PackagePath>diets.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\first_use1.png">
+      <PackagePath>first_use1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\first_use4.png">
+      <PackagePath>first_use4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\first_use44.png">
+      <PackagePath>first_use44.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\flogo.png">
+      <PackagePath>flogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\glogo.png">
+      <PackagePath>glogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\goal.png">
+      <PackagePath>goal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\Home.png">
+      <PackagePath>Home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\ic_drawer.png">
+      <PackagePath>ic_drawer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\karim.png">
+      <PackagePath>karim.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\lo.png">
+      <PackagePath>lo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\Log-Book.png">
+      <PackagePath>Log-Book.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\logoapp.png">
+      <PackagePath>logoapp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\logout1.png">
+      <PackagePath>logout1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\logout2.png">
+      <PackagePath>logout2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\pause.png">
+      <PackagePath>pause.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\Play-button-blue.png">
+      <PackagePath>Play-button-blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\reloadd.png">
+      <PackagePath>reloadd.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\scale.png">
+      <PackagePath>scale.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\star.png">
+      <PackagePath>star.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\bart.png">
+      <PackagePath>bart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\start.png">
+      <PackagePath>start.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\steps2s.png">
+      <PackagePath>steps2s.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\tofehs.png">
+      <PackagePath>tofehs.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\Weight-in.png">
+      <PackagePath>Weight-in.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\chi.jpg">
+      <PackagePath>chi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\images.jpg">
+      <PackagePath>images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\karim.jpg">
+      <PackagePath>karim.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\zz.jpg">
+      <PackagePath>zz.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\SmallTile.xbf">
+      <PackagePath>Custom Tiles\SmallTile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithIcons\LargeTileIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithIcons\MediumTileIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithIcons\WideTileIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xbf">
+      <PackagePath>Custom Tiles\TilesWithImages\LargeTileImage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xbf">
+      <PackagePath>Custom Tiles\TilesWithImages\MediumTileImage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithImages\WideTileImage.xbf">
+      <PackagePath>Custom Tiles\TilesWithImages\WideTileImage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\ConnectionActivity.xbf">
+      <PackagePath>ConnectionActivity.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\App2.Windows.xr.xml">
+      <PackagePath>App2.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

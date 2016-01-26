@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="App2.ConnectionActivity"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid >
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="first_use1.png"/>
+        </Grid.Background>
+
+        <Image Margin="124,103,124,420" Source="logoapp.png"/>
+        <TextBox   Background="White" Name="Username" Margin="539,375,531,354" TextWrapping="Wrap" VerticalAlignment="Stretch" />
+        <TextBlock x:ConnectionId='1' Foreground="#ffffff"   Margin="539,328,724,285"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Username"                                              />
+        <PasswordBox  Background="White" Name="Password" Margin="539,465,531,264"  VerticalAlignment="Stretch"/>
+        <TextBlock Foreground="#ffffff" Margin="539,425,691,232"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Password"/>
+        <Button x:ConnectionId='2' Foreground="#ffffff" BorderBrush="White"  Name="Login" Content="Sign in" HorizontalAlignment="Stretch" Margin="536,612,528,100" VerticalAlignment="Stretch"                    />
+        <Button x:ConnectionId='3'  Foreground="#ffffff" BorderBrush="White" Name="signin" Content="Sign up" HorizontalAlignment="Stretch" Margin="536,545,528,167" VerticalAlignment="Stretch"                      />
+        <ProgressRing Name="ringprog" HorizontalAlignment="Left" VerticalAlignment="Top" IsActive="True"  Margin="160,548,0,0" Background="{x:Null}" Foreground="#FFEDF5F7" Visibility="Collapsed"/>
+    </Grid>
+</Page>
+

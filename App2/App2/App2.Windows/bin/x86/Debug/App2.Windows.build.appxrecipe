@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LENOVO-PC</Machine>
+    <WindowsUser>Utilisateur</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>9c8877cd-abdc-40a8-9ec4-7d10ffe131e2</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\App2.Windows.exe">
+      <PackagePath>App2.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\Newtonsoft.Json.7.0.1-beta3\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization.dll">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.dll">
+      <PackagePath>WinRTXamlToolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.8.1\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a1.png">
+      <PackagePath>a1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a2.png">
+      <PackagePath>a2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a3.png">
+      <PackagePath>a3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a4.png">
+      <PackagePath>a4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a5.png">
+      <PackagePath>a5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a6.png">
+      <PackagePath>a6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a7.png">
+      <PackagePath>a7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a8.png">
+      <PackagePath>a8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\a9.png">
+      <PackagePath>a9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\About.png">
+      <PackagePath>About.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\About1.png">
+      <PackagePath>About1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\arrowleft.png">
+      <PackagePath>arrowleft.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\arrowright.png">
+      <PackagePath>arrowright.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\book.png">
+      <PackagePath>book.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\diet.png">
+      <PackagePath>diet.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\diets.png">
+      <PackagePath>diets.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\first_use1.png">
+      <PackagePath>first_use1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\first_use4.png">
+      <PackagePath>first_use4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\first_use44.png">
+      <PackagePath>first_use44.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\flogo.png">
+      <PackagePath>flogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\glogo.png">
+      <PackagePath>glogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\goal.png">
+      <PackagePath>goal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\Home.png">
+      <PackagePath>Home.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\ic_drawer.png">
+      <PackagePath>ic_drawer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\karim.png">
+      <PackagePath>karim.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\lo.png">
+      <PackagePath>lo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\Log-Book.png">
+      <PackagePath>Log-Book.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\logoapp.png">
+      <PackagePath>logoapp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\logout1.png">
+      <PackagePath>logout1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\logout2.png">
+      <PackagePath>logout2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\pause.png">
+      <PackagePath>pause.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\Play-button-blue.png">
+      <PackagePath>Play-button-blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\reloadd.png">
+      <PackagePath>reloadd.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\scale.png">
+      <PackagePath>scale.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\star.png">
+      <PackagePath>star.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\bart.png">
+      <PackagePath>bart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\start.png">
+      <PackagePath>start.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\steps2s.png">
+      <PackagePath>steps2s.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\tofehs.png">
+      <PackagePath>tofehs.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\Weight-in.png">
+      <PackagePath>Weight-in.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\chi.jpg">
+      <PackagePath>chi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\images.jpg">
+      <PackagePath>images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\karim.jpg">
+      <PackagePath>karim.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Shared\zz.jpg">
+      <PackagePath>zz.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Custom Tiles\SmallTile.xbf">
+      <PackagePath>Custom Tiles\SmallTile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithIcons\LargeTileIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithIcons\MediumTileIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xbf">
+      <PackagePath>Custom Tiles\TilesWithIcons\WideTileIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xbf">
+      <PackagePath>Custom Tiles\TilesWithImages\LargeTileImage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xbf">
+      <PackagePath>Custom Tiles\TilesWithImages\MediumTileImage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Custom Tiles\TilesWithImages\WideTileImage.xbf">
+      <PackagePath>Custom Tiles\TilesWithImages\WideTileImage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\ConnectionActivity.xbf">
+      <PackagePath>ConnectionActivity.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\GoalWeight.xbf">
+      <PackagePath>GoalWeight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\GoalWeight2.xbf">
+      <PackagePath>GoalWeight2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Home.xbf">
+      <PackagePath>Home.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Inscription.xbf">
+      <PackagePath>Inscription.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\LogDiet1.xbf">
+      <PackagePath>LogDiet1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\LogDiet2.xbf">
+      <PackagePath>LogDiet2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\LogDiet3.xbf">
+      <PackagePath>LogDiet3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\LogDietFinal.xbf">
+      <PackagePath>LogDietFinal.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\statistique.xbf">
+      <PackagePath>statistique.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\Tipspage.xbf">
+      <PackagePath>Tipspage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\WeightIn.xbf">
+      <PackagePath>WeightIn.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\App2.Windows.xr.xml">
+      <PackagePath>App2.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\WinRTXamlToolkit.xr.xml">
+      <PackagePath>WinRTXamlToolkit\WinRTXamlToolkit.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\AutoCompleteTextBox\AutoCompleteTextBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AutoCompleteTextBox\AutoCompleteTextBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\FocusVisualizer\FocusVisualizer.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\FocusVisualizer\FocusVisualizer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ToolStrip\ToolStrip.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ToolStrip\ToolStrip.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeView.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Themes\Generic.xbf">
+      <PackagePath>WinRTXamlToolkit\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\WinRTXamlToolkit.Controls.DataVisualization.xr.xml">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\WinRTXamlToolkit.Controls.DataVisualization.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\AxisLabel.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\AxisLabel.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\DateTimeAxisLabel.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\DateTimeAxisLabel.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\DisplayAxis.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\DisplayAxis.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\NumericAxisLabel.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\NumericAxisLabel.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\RangeAxis.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\RangeAxis.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Chart\Chart.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Chart\Chart.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\AreaDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\AreaDataPoint.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\BarDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\BarDataPoint.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\BubbleDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\BubbleDataPoint.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\ColumnDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\ColumnDataPoint.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\LineDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\LineDataPoint.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\PieDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\PieDataPoint.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\ScatterDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\ScatterDataPoint.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Primitives\DelegatingListBox.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Primitives\DelegatingListBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\AreaSeries.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\AreaSeries.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\DataPointSeries.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\DataPointSeries.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\DefinitionSeries.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\DefinitionSeries.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\LegendItem.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\LegendItem.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\LineSeries.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\LineSeries.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\PieSeries.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\PieSeries.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Legend\Legend.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Legend\Legend.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Themes\Generic.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Title\Title.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Title\Title.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

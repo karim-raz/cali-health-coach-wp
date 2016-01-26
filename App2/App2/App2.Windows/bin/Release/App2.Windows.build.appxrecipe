@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHI</Machine>
+    <WindowsUser>Chi</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9c8877cd-abdc-40a8-9ec4-7d10ffe131e2</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Windows\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Windows\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Windows\bin\Release\App2.Windows.exe">
+      <PackagePath>App2.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\a1.png">
+      <PackagePath>a1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\a2.png">
+      <PackagePath>a2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\a3.png">
+      <PackagePath>a3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\a4.png">
+      <PackagePath>a4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\a5.png">
+      <PackagePath>a5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\a6.png">
+      <PackagePath>a6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\a7.png">
+      <PackagePath>a7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\a8.png">
+      <PackagePath>a8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\a9.png">
+      <PackagePath>a9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\arrowleft.png">
+      <PackagePath>arrowleft.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\arrowright.png">
+      <PackagePath>arrowright.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\first_use1.png">
+      <PackagePath>first_use1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\ic_drawer.png">
+      <PackagePath>ic_drawer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\logoapp.png">
+      <PackagePath>logoapp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\star.png">
+      <PackagePath>star.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\star2.png">
+      <PackagePath>star2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\bart.png">
+      <PackagePath>bart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Shared\images.jpg">
+      <PackagePath>images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Windows\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Windows\bin\Release\ConnectionActivity.xbf">
+      <PackagePath>ConnectionActivity.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Windows\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Windows\bin\Release\App2.Windows.xr.xml">
+      <PackagePath>App2.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\documents\visual studio 2013\Projects\App2\App2\App2.Windows\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

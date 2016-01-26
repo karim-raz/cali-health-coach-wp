@@ -1,0 +1,294 @@
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\App.xbf
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\ConnectionActivity.xbf
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\MainPage.xbf
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\App2.Windows.xr.xml
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\App2.Windows.exe
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\App2.Windows.pdb
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\resources.pri
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\App2.Windows.build.appxrecipe
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\App.g.i.cs
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\App.g.cs
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\ConnectionActivity.g.i.cs
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\ConnectionActivity.g.cs
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\App.xaml
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\ConnectionActivity.xaml
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\MainPage.xaml
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\App.xbf
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\ConnectionActivity.xbf
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\MainPage.xbf
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\App2.Windows.exe
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\App2.Windows.pdb
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\priconfig.xml
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\layout.resfiles
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\resources.resfiles
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\pri.resfiles
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\qualifiers.txt
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Rania\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\App.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\Common\StandardStyles.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\SmallTile.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\ConnectionActivity.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\MainPage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\App2.Windows.xr.xml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\App2.Windows.exe
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\App2.Windows.pdb
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\resources.pri
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\ARM\Debug\App2.Windows.build.appxrecipe
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\App.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\App.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\ConnectionActivity.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\ConnectionActivity.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Common\StandardStyles.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\SmallTile.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\SmallTile.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\LargeTileImage.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\LargeTileImage.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\MediumTileImage.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\MediumTileImage.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\WideTileImage.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\WideTileImage.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\App.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\ConnectionActivity.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\MainPage.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Common\StandardStyles.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\SmallTile.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\WideTileImage.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\App.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\ConnectionActivity.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\MainPage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Common\StandardStyles.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\SmallTile.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\App2.Windows.exe
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\App2.Windows.pdb
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\priconfig.xml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\layout.resfiles
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\resources.resfiles
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\pri.resfiles
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\qualifiers.txt
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\App.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Common\StandardStyles.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\SmallTile.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\About.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\ConnectionActivity.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\GoalWeight.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\GoalWeight2.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Home.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Inscription.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\LogDiet1.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\LogDiet2.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\LogDiet3.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\LogDietFinal.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\statistique.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Tipspage.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\WeightIn.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\App2.Windows.xr.xml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\App2.Windows.exe
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\App2.Windows.pdb
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\resources.pri
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization.dll
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\WinRTXamlToolkit.dll
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\WinRTXamlToolkit.pri
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\bin\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\App.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\App.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\About.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\About.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\ConnectionActivity.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\ConnectionActivity.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\GoalWeight.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\GoalWeight.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\GoalWeight2.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\GoalWeight2.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Home.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Home.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Inscription.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Inscription.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDiet1.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDiet1.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDiet2.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDiet2.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDiet3.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDiet3.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDietFinal.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDietFinal.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\statistique.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\statistique.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Tipspage.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Tipspage.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WeightIn.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WeightIn.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Common\StandardStyles.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\SmallTile.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\SmallTile.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\LargeTileImage.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\LargeTileImage.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\MediumTileImage.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\MediumTileImage.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\WideTileImage.g.i.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\WideTileImage.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\App.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\About.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\ConnectionActivity.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\GoalWeight.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\GoalWeight2.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Home.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Inscription.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDiet1.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDiet2.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDiet3.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDietFinal.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\statistique.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Tipspage.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WeightIn.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Common\StandardStyles.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\SmallTile.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\WideTileImage.xaml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\App.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\About.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\ConnectionActivity.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\GoalWeight.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\GoalWeight2.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Home.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Inscription.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDiet1.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDiet2.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDiet3.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\LogDietFinal.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\statistique.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Tipspage.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WeightIn.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Common\StandardStyles.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\SmallTile.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\App2.Windows.exe
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\App2.Windows.pdb
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\App2.Windows.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles.intermediate
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles.intermediate
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles.intermediate
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml.intermediate
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization\qualifiers.txt
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\priconfig.xml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\layout.resfiles
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\resources.resfiles
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\pri.resfiles
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\qualifiers.txt
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WinRTXamlToolkit.pri.xml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+C:\Users\Utilisateur\Desktop\esprit\4sim1\projects\Cali karimrazouane chiheb manai 4sim1\Cali Wp\App2\App2\App2.Windows\obj\ARM\Debug\App2.Windows.csprojResolveAssemblyReference.cache
