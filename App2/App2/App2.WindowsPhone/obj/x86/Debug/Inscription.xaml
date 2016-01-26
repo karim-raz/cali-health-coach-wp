@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="App2.Inscription"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Background>
+        <ImageBrush Stretch="Fill" ImageSource="first_use1.png"/>
+    </Page.Background>
+
+    <ScrollViewer Margin="0,0.333,0,9.667" IsZoomChainingEnabled="False">
+        <Grid>
+
+
+
+            <TextBox  x:Name="Username" Margin="23,124,25,729" Background="#ffffff"   TextWrapping="Wrap" VerticalAlignment="Stretch" />
+            <TextBlock  Foreground="#ffffff" Margin="23,92,275,769"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap"  Text="UserName"/>
+            <TextBlock Foreground="#ffffff" Margin="23,181,275,683"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Password"/>
+            <TextBlock Foreground="#ffffff" Margin="23,267,275,595"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Email"/>
+            <TextBlock Foreground="#ffffff" Margin="23,349,275,505"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Age"/>
+            <TextBlock Foreground="#ffffff" Margin="23,446,275,407"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Weight"/>
+            <PasswordBox  Background="#ffffff"  x:Name="Password" Margin="23,210,25,641"  VerticalAlignment="Stretch"/>
+            <TextBox Background="#ffffff"   x:Name="Email" Margin="23,298,25,556" TextWrapping="Wrap" VerticalAlignment="Stretch"/>
+            <TextBox InputScope="Number"   Background="#ffffff"   x:Name="Age" Margin="23,388,25,459" TextWrapping="Wrap" VerticalAlignment="Stretch" AcceptsReturn="True"/>
+            <TextBox InputScope="Number"   Background="#ffffff"   x:Name="Weight" Margin="23,486,25,367" TextWrapping="Wrap" VerticalAlignment="Stretch"/>
+            <Button x:ConnectionId='1' Content="Submit" HorizontalAlignment="Stretch" Margin="266,716,25,118" VerticalAlignment="Stretch"                      BorderBrush="White" Foreground="White"/>
+            <ProgressRing Name="ringprog2" HorizontalAlignment="Left" IsActive="True" Visibility="Collapsed" Margin="190,714,0,121" Background="{x:Null}" Foreground="#FFEDF5F7"  />
+            <TextBlock  Foreground="#ffffff" Margin="23,35,235,801"  FontSize="36"  FontStyle="Normal" TextWrapping="Wrap" Text="Sign up"/>
+            <TextBlock Foreground="#ffffff" Margin="23,645,275,215"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Gender"/>
+            <RadioButton Name="r1" Content="Male" HorizontalAlignment="Stretch"  IsChecked="True"  Margin="23,667,209,0" VerticalAlignment="Top" Height="69"/>
+            <RadioButton Name="r2 " Content="Female" HorizontalAlignment="Stretch"   Margin="160,667,42,0" VerticalAlignment="Top" Height="69"/>
+            <TextBlock Foreground="#ffffff" Margin="23,544,275,315"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Height"/>
+            <TextBox  InputScope="Number"  Background="#ffffff"   x:Name="Height" Margin="23,578,25,268" TextWrapping="Wrap" VerticalAlignment="Stretch"/>
+
+        </Grid>
+    </ScrollViewer>
+</Page>
+

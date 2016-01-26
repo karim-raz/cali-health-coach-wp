@@ -1,0 +1,138 @@
+﻿<Page
+    x:Class="App2.Home"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+      xmlns:CustomLiveTiles="using:CustomLiveTiles" Width="398.756">
+
+    <Page.BottomAppBar>
+        <CommandBar Height="60" Background="#FF1E88E5">
+            <AppBarButton Icon="Help" Label="About" Click="AppBarButton_Click" RequestedTheme="Dark" />
+
+
+
+        </CommandBar>
+
+    </Page.BottomAppBar>
+    <Grid  Margin="0,0.333,0.167,-0.333"  >
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="first_use1.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Name="grid1" Visibility="Collapsed" >
+
+            <CustomLiveTiles:WideTileIcon 
+                                              Message="set your Goal weight"
+                                              Title="goal weight"
+                                              FontWeight="Bold"
+                                              BackTitle="goal weight"
+                                              BackgroundColor="#FF1E88E5"
+                                              BackgroundIcon="/goal.png"
+                                              Tapped="MediumTileIcon_Tapped_3" Background="#FF1E88E5" 
+                                              Foreground="#FFFBF4F4" FontFamily="Segoe UI" Margin="27,114,39,476"/>
+
+            <CustomLiveTiles:MediumTileIcon HorizontalAlignment="Stretch"
+        	Message="set your new Weight"
+        	Title="Weight in"
+        	BackTitle="Weight in"
+        	BackgroundColor="#FF1E88E5"
+        	BackgroundIcon="/scale.png"
+                                            FontWeight="Bold"
+        	Tapped="MediumTileIcon_Tapped_4" Background="#FF1E88E5" 
+        	Foreground="#FFFBF4F4" FontFamily="Segoe UI" Margin="39,293,211,297"/>
+            <CustomLiveTiles:MediumTileIcon HorizontalAlignment="Stretch"
+        	Message="see your progress"
+        	Title="LogBook"
+        	BackTitle="LogBook"
+                                            FontWeight="Bold"
+        	BackgroundColor="#FF1E88E5"
+        	BackgroundIcon="/book.png"
+        	Tapped="MediumTileIcon_Tapped_5" Background="#FF1E88E5" 
+        	Foreground="#FFFBF4F4" FontFamily="Segoe UI" Margin="199,293,46,297"/>
+            <TextBlock x:Name="textBlock" Margin="27,37,277,522" TextWrapping="Wrap" Text="Cali" FontSize="45"/>
+            <TextBlock  x:Name="textBlock2" FontWeight="Bold" Margin="60,478,64,238" TextWrapping="Wrap" Text="Please Set your Goal Weight" FontSize="20" Foreground="#ecf0f1"/>
+
+
+        </Grid>
+        <Grid Grid.Row="1" Name="grid2" Height="Auto" Visibility="Visible" >
+
+            <CustomLiveTiles:MediumTileIcon
+                x:Name="messagediet"
+                                          
+                HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                                              Message="here you log your daily diet"
+                                              Title="Diets"
+                                        FontWeight="Bold"
+                                              BackTitle="Diets"
+                                              BackgroundColor="#FF1E88E5"
+                                              BackgroundIcon="/diets.png"
+                                              Tapped="MediumTileIcon_Tapped" Background="#FF1E88E5" 
+                                              Foreground="#FFFBF4F4" FontFamily="Segoe UI" Margin="35,69,214,361"/>
+            <CustomLiveTiles:MediumTileFlipIcon  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+         	Message="Start a run an see how much steps you did"
+         	Title="Run"
+                                        
+                                        
+         	BackTitle="Run"
+         	BackgroundColor="#FF1E88E5"
+                                                 FontWeight="Bold"
+         	BackgroundIcon="/steps2s.png"
+         	Tapped="MediumTileIcon_Tapped_1" Background="#FF1E88E5" 
+         	Foreground="#FFFBF4F4" FontFamily="Segoe UI" Margin="209,69,41,361" />
+            <CustomLiveTiles:MediumTileIcon 
+                x:Name="diets"
+                HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+        	Message="read some tips to have a good health"
+        	Title="Tips"
+        	BackTitle="Tips"
+        	BackgroundColor="#FF1E88E5"
+        	BackgroundIcon="/tofehs.png"
+                                            FontWeight="Bold"
+        	Tapped="MediumTileIcon_Tapped_2" Background="#FF1E88E5" 
+        	Foreground="#FFFBF4F4" FontFamily="Segoe UI" Margin="35,239,215,190"/>
+            <CustomLiveTiles:MediumTileIcon HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+        	Message="set your Goal weight"
+        	Title="goal"
+                                         FontWeight="Bold"
+        	BackTitle="goal"
+        	BackgroundColor="#FF1E88E5"
+        	BackgroundIcon="/goal.png"
+        	Tapped="MediumTileIcon_Tapped_3" Background="#FF1E88E5" 
+        	Foreground="#FFFBF4F4" FontFamily="Segoe UI" Margin="209,237,41,193"/>
+            <CustomLiveTiles:MediumTileIcon HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+        	Message="set your new Weight"
+        	Title="Weight in"
+        	BackTitle="Weight in"
+        	BackgroundColor="#FF1E88E5"
+        	BackgroundIcon="/scale.png"
+                                            FontWeight="Bold"
+        	Tapped="MediumTileIcon_Tapped_4" Background="#FF1E88E5" 
+        	Foreground="#FFFBF4F4" FontFamily="Segoe UI" Margin="35,411,215,24"/>
+            <CustomLiveTiles:MediumTileIcon HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+        	Message="see your progress"
+        	Title="LogBook"
+        	BackTitle="LogBook"
+                                            FontWeight="Bold"
+        	BackgroundColor="#FF1E88E5"
+        	BackgroundIcon="/book.png"
+        	Tapped="MediumTileIcon_Tapped_5" Background="#FF1E88E5" 
+        	Foreground="#FFFBF4F4" FontFamily="Segoe UI" Margin="209,411,41,24"/>
+            <TextBlock x:Name="textBlock1" Margin="27,31,277,528" TextWrapping="Wrap" Text="Cali" Foreground="White" FontSize="45"/>
+
+
+        </Grid>
+
+
+
+    </Grid>
+
+
+</Page>

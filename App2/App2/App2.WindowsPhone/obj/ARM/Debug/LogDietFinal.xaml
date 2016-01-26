@@ -1,0 +1,53 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:CustomLiveTiles="using:CustomLiveTiles"
+    x:Class="App2.LogDietFinal"
+    mc:Ignorable="d">
+
+    <Page.BottomAppBar>
+        <CommandBar Height="60" Background="#FF1E88E5">
+
+            <AppBarButton x:ConnectionId='1' Icon="Add" Label="add"                            RequestedTheme="Dark" />
+            <AppBarButton x:ConnectionId='2' Icon="Accept" Label="submit"                              RequestedTheme="Dark" />
+
+
+        </CommandBar>
+
+    </Page.BottomAppBar>
+    <Grid Background="White">
+        <TextBlock x:Name="nut_name" Margin="27,29,154,505" TextWrapping="Wrap" Text="Today" VerticalAlignment="Stretch" Foreground="#FF1E88E5" FontSize="27"/>
+        <TextBlock x:Name="today_value" Margin="27,80,180,470" TextWrapping="Wrap" Text="Today" VerticalAlignment="Stretch" Foreground="Black" FontSize="19"/>
+        <TextBlock x:Name="total" Margin="255,34,68,505" TextWrapping="Wrap" Text="Total" VerticalAlignment="Stretch" Foreground="#FF1E88E5" FontSize="27"/>
+        <TextBlock x:Name="total_value" Margin="255,80,11,470" TextWrapping="Wrap" Text="Today" VerticalAlignment="Stretch" Foreground="Black" FontSize="19"/>
+
+
+
+        <ListView x:ConnectionId='3' ScrollViewer.VerticalScrollBarVisibility="Hidden" Name="DietsFinalList" ItemsSource="{Binding}"    Margin="26,162,11,-21"                                                    FontWeight="Bold" >
+            <ListView.ItemTemplate>
+
+                <DataTemplate  >
+
+                    <StackPanel  Orientation="Horizontal" HorizontalAlignment="Left"  >
+
+
+
+
+                        <TextBlock Margin="0,0,0,50" Width="145" HorizontalAlignment="Left"  TextAlignment="Left" Text="{Binding diet}" Foreground="#FF1E88E5"  FontSize="20" ></TextBlock>
+                        <TextBlock  Margin="100,0,0,0"  HorizontalAlignment="Right" TextAlignment="Right"  Text="{Binding val}"    Foreground="#FF1E88E5"  FontSize="20" ></TextBlock>
+
+                    </StackPanel>
+
+                </DataTemplate>
+
+            </ListView.ItemTemplate>
+
+
+        </ListView>
+
+    </Grid>
+</Page>
+

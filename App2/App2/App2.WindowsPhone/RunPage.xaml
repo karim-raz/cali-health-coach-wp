@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="App2.RunPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="White">
+        <TextBlock Name="Steps" Margin="102,111,102,447" Text="0" Foreground="Black" FontSize="64" TextAlignment="Center"/>
+        <TextBlock TextAlignment="Center" Margin="10,416,10,164" Foreground="#FF1E88E5" TextWrapping="Wrap" FontSize="20" Text="Here you can see how much steps you do when you start a run"/>
+        <TextBlock TextAlignment="Center" Margin="161,193,161,412" Foreground="#FF1E88E5" TextWrapping="Wrap" FontSize="24" Text="Steps"/>
+        <Button x:Name="runimage"  Margin="146,248,145,276" Height="116" HorizontalAlignment="Stretch" Click="runimage_Click" >
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="start.png"/>
+            </Button.Background>
+        </Button>
+        <Button Visibility="Collapsed" x:Name="pauseimage"  Margin="146,248,145,276" Height="116" HorizontalAlignment="Stretch" Click="pauseimage_Click" >
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="pause.png"/>
+            </Button.Background>
+        </Button>
+        <Image x:Name="runimage_Copy"   Source="reloadd.png" Margin="260,262,101,339" Tapped="runimage_Copy_Tapped" Visibility="Collapsed">
+
+
+
+        </Image>
+        
+    </Grid>
+</Page>

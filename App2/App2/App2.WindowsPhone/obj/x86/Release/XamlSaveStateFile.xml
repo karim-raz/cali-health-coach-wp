@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\chi\desktop\app2\app2\app2.windowsphone\obj\x86\release\intermediatexaml\app2.windowsphone.exe" HashGuid="a111dfae-96ba-e3ff-a787-c100d489599f" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\chi\desktop\app2\packages\drawerlayout.1.0.4\lib\drawerlayout.dll" HashGuid="b0d3b3f8-90b7-6a66-b416-66f64dcf26fa" />
+    <ReferenceAssembly PathName="c:\users\chi\desktop\app2\packages\newtonsoft.json.7.0.1-beta1\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="6ea6c1fa-8cdc-39f2-a30f-100f2185339f" />
+    <ReferenceAssembly PathName="c:\users\chi\desktop\app2\packages\sqlitepcl.3.8.7.2\lib\wpa81\sqlitepcl.dll" HashGuid="a405761a-bd1d-dc16-54b5-36df2e9981c5" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

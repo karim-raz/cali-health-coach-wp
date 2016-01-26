@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="App2.GoalWeight2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+   >
+    <Page.BottomAppBar>
+        <CommandBar Height="60" Background="#FF1E88E5">
+
+            
+            <AppBarButton x:ConnectionId='1' Icon="Accept" Label="submit"                              RequestedTheme="Dark" />
+
+
+        </CommandBar>
+
+    </Page.BottomAppBar>
+
+    <Grid Background="White">
+        <TextBlock Margin="14,20,15,509" HorizontalAlignment="Center" TextWrapping="Wrap" FontSize="27" Text="Choose your program intensity" Foreground="#FF1E88E5"/>
+        <TextBlock Margin="14,76,15,457" TextWrapping="Wrap" HorizontalAlignment="Center" FontSize="18" Text="this will affect how hard your diet and exercice tasks get" Foreground="Black"/>
+        <ListView x:ConnectionId='2'                                                 ScrollViewer.VerticalScrollBarVisibility="Hidden" 
+                  x:Name="programList" 
+                  ItemsSource="{Binding}"  
+                  
+                  Margin="103,222,103,156" >
+            <ListView.ItemTemplate>
+
+                <DataTemplate >
+
+                    <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center" >
+
+                        <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center" >
+
+
+                            <TextBlock Text="{Binding prog}" TextWrapping="Wrap" Foreground="#FF1E88E5"  FontSize="48" HorizontalAlignment="Center"  />
+                        </StackPanel>
+                    </StackPanel>
+
+                </DataTemplate>
+
+            </ListView.ItemTemplate>
+
+
+        </ListView>
+        <Image Visibility="Collapsed"  Name="easystar" Margin="310,227,26,296" Source="star.png"/>
+        <Image Visibility="Collapsed" Name="averagestar"  Margin="310,294,26,229" Source="star.png"/>
+        <Image Visibility="Collapsed" Name="hardstar"  Margin="310,362,26,161" Source="star.png"/>
+
+
+    </Grid>
+</Page>
+

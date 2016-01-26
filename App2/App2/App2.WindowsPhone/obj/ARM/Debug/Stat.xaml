@@ -1,0 +1,72 @@
+﻿<Page
+    x:Class="App2.Stat"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+     xmlns:charting="using:WinRTXamlToolkit.Controls.DataVisualization.Charting"
+    xmlns:Series="using:WinRTXamlToolkit.Controls.DataVisualization.Charting"
+    xmlns:datavis="using:WinRTXamlToolkit.Controls.DataVisualization"
+    NavigationCacheMode="Required"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+<Grid Background="White">
+        <TextBlock Name="LogBook"  Text=" LogBook" FontSize="30" Foreground="#FF439EC9" ></TextBlock>
+        <StackPanel Margin="10,65,-10,-65" >
+            <ScrollViewer  HorizontalScrollBarVisibility="Visible" HorizontalScrollMode="Auto" ZoomMode="Enabled"  >
+
+                <Series:Chart x:Name="LineChart" HorizontalAlignment="Left" VerticalAlignment="Top" Width="1016" Height="512"   Background="White" Foreground="Black" RenderTransformOrigin="0.502,0.505">
+                    <Series:Chart.Palette>
+                        <Series:ResourceDictionaryCollection>
+                            <!-- Blue -->
+                            <ResourceDictionary>
+                                <SolidColorBrush
+        							x:Key="Background"
+        							Color="#FF4586D8" />
+                                <SolidColorBrush
+        							x:Key="Forground"
+        							Color="Black" />
+                                <Style
+        							x:Key="DataPointStyle"
+        							TargetType="Control">
+                                    <Setter
+        								Property="Background"
+        								Value="{StaticResource Background}" />
+                                </Style>
+                                <Style
+        							x:Key="DataShapeStyle"
+        							TargetType="Shape">
+                                    <Setter
+        								Property="Stroke"
+        								Value="{StaticResource Background}" />
+                                    <Setter
+        								Property="StrokeThickness"
+        								Value="2" />
+                                    <Setter
+        								Property="StrokeMiterLimit"
+        								Value="1" />
+                                    <Setter
+        								Property="Fill"
+        								Value="{StaticResource Background}" />
+                                </Style>
+
+
+
+
+                            </ResourceDictionary>
+
+                        </Series:ResourceDictionaryCollection>
+                    </Series:Chart.Palette>
+                    <Series:LineSeries 
+        				Title="logged "
+        				IndependentValueBinding="{Binding Name}"
+        				DependentValueBinding="{Binding Value}" Foreground="Black" 
+                  />
+                </Series:Chart>
+
+            </ScrollViewer>
+        </StackPanel>
+    </Grid>
+</Page>
+

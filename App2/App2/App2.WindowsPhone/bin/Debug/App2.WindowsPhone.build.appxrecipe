@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHI</Machine>
+    <WindowsUser>Chi</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>230fb8d8-e643-46d5-adfa-cc4036c49fc7</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\bin\Debug\App2.WindowsPhone.exe">
+      <PackagePath>App2.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\packages\DrawerLayout.1.0.4\lib\DrawerLayout.dll">
+      <PackagePath>DrawerLayout.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\packages\Newtonsoft.Json.7.0.1-beta1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\a1.png">
+      <PackagePath>a1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\a2.png">
+      <PackagePath>a2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\a3.png">
+      <PackagePath>a3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\a4.png">
+      <PackagePath>a4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\a5.png">
+      <PackagePath>a5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\a6.png">
+      <PackagePath>a6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\a7.png">
+      <PackagePath>a7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\a8.png">
+      <PackagePath>a8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\a9.png">
+      <PackagePath>a9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\arrowleft.png">
+      <PackagePath>arrowleft.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\arrowright.png">
+      <PackagePath>arrowright.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\first_use1.png">
+      <PackagePath>first_use1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\ic_drawer.png">
+      <PackagePath>ic_drawer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\logoapp.png">
+      <PackagePath>logoapp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\star.png">
+      <PackagePath>star.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\star2.png">
+      <PackagePath>star2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\bart.png">
+      <PackagePath>bart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.Shared\images.jpg">
+      <PackagePath>images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\bin\Debug\Cali.xbf">
+      <PackagePath>Cali.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\bin\Debug\ConnectionActivity.xbf">
+      <PackagePath>ConnectionActivity.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\bin\Debug\GoalWeight.xbf">
+      <PackagePath>GoalWeight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\bin\Debug\GoalWeight2.xbf">
+      <PackagePath>GoalWeight2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\bin\Debug\Inscription.xbf">
+      <PackagePath>Inscription.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\bin\Debug\App2.WindowsPhone.xr.xml">
+      <PackagePath>App2.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chi\Documents\Visual Studio 2013\Projects\App2\App2\App2.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

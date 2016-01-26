@@ -1,0 +1,185 @@
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\App.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\ConnectionActivity.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\MainPage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\App2.Windows.xr.xml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\App2.Windows.exe
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\App2.Windows.pdb
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\resources.pri
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\App2.Windows.build.appxrecipe
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\App.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\App.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\ConnectionActivity.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\ConnectionActivity.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\App.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\ConnectionActivity.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\MainPage.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\App.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\ConnectionActivity.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\MainPage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\App2.Windows.exe
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\App2.Windows.pdb
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\priconfig.xml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\layout.resfiles
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\resources.resfiles
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\pri.resfiles
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\qualifiers.txt
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\Common\StandardStyles.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\Custom Tiles\SmallTile.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\SmallTile.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\SmallTile.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\LargeTileImage.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\LargeTileImage.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\MediumTileImage.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\MediumTileImage.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\WideTileImage.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\WideTileImage.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\SmallTile.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\WideTileImage.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Common\StandardStyles.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\SmallTile.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\App.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Common\StandardStyles.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\SmallTile.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\ConnectionActivity.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\MainPage.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\App2.Windows.xr.xml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\App2.Windows.exe
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\App2.Windows.pdb
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\resources.pri
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\bin\Debug\App2.Windows.build.appxrecipe
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\App.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\App.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\ConnectionActivity.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\ConnectionActivity.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\SmallTile.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\SmallTile.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\LargeTileImage.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\LargeTileImage.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\MediumTileImage.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\MediumTileImage.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\WideTileImage.g.i.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\WideTileImage.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\App.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\MainPage.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\SmallTile.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\WideTileImage.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\App.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\MainPage.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Common\StandardStyles.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\SmallTile.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\ConnectionActivity.xaml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\ConnectionActivity.xbf
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\App2.Windows.exe
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\App2.Windows.pdb
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\priconfig.xml
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\layout.resfiles
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\resources.resfiles
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\pri.resfiles
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\qualifiers.txt
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Utilisateur\Desktop\Cali Wp\App2\App2\App2.Windows\obj\Debug\App2.Windows.csprojResolveAssemblyReference.cache

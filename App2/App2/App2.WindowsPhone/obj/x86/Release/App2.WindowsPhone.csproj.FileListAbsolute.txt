@@ -1,0 +1,156 @@
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\SQLitePCL.Ext.dll
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\SQLitePCL.Ext.pri
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\App.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Common\StandardStyles.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Custom Tiles\SmallTile.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Cali.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\ConnectionActivity.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\GoalWeight.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\GoalWeight2.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Home.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Inscription.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\LogDiet1.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\LogDiet2.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\LogDiet3.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\LogDietFinal.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Tipspage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\App2.WindowsPhone.xr.xml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\App2.WindowsPhone.exe
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\App2.WindowsPhone.pdb
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\resources.pri
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\AppxManifest.xml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\App2.WindowsPhone.build.appxrecipe
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\DrawerLayout.dll
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\SQLitePCL.dll
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\App.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\App.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Cali.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Cali.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\ConnectionActivity.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\ConnectionActivity.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\GoalWeight.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\GoalWeight.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\GoalWeight2.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\GoalWeight2.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Home.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Home.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Inscription.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Inscription.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDiet1.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDiet1.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDiet2.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDiet2.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDiet3.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDiet3.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDietFinal.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDietFinal.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Tipspage.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Tipspage.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Common\StandardStyles.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Common\StandardStyles.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\SmallTile.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\SmallTile.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.g.i.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\App.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Cali.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\ConnectionActivity.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\GoalWeight.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\GoalWeight2.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Home.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Inscription.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDiet1.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDiet2.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDiet3.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDietFinal.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Common\StandardStyles.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\SmallTile.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\App.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Cali.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\ConnectionActivity.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\GoalWeight.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\GoalWeight2.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Home.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Inscription.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDiet1.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDiet2.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDiet3.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\LogDietFinal.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Common\StandardStyles.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\SmallTile.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\LargeTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\MediumTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithFlipIcons\WideTileFlipIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithIcons\LargeTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithIcons\MediumTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithIcons\WideTileIcon.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithImages\LargeTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithImages\MediumTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Custom Tiles\TilesWithImages\WideTileImage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\XamlSaveStateFile.xml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Tipspage.xaml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\Tipspage.xbf
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\App2.WindowsPhone.exe
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\App2.WindowsPhone.pdb
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\SQLitePCL\en\SQLitePCL.Resources.resw
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\App2.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\SQLitePCL\layout.resfiles
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\SQLitePCL\layout.resfiles.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\SQLitePCL\Resources.resfiles
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\SQLitePCL\Resources.resfiles.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\SQLitePCL\pri.resfiles
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\SQLitePCL\pri.resfiles.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\SQLitePCL\priconfig.xml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\SQLitePCL\priconfig.xml.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\SQLitePCL.pri
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\SQLitePCL\qualifiers.txt
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\priconfig.xml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\layout.resfiles
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\resources.resfiles
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\pri.resfiles
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\qualifiers.txt
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\SQLitePCL.Ext.pri.xml
+C:\Users\Chi\Desktop\App2\App2\App2.WindowsPhone\obj\x86\Release\ProjectArchitectures.txt

@@ -1,0 +1,54 @@
+﻿<Page
+    x:Class="App2.GoalWeight2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+   >
+    <Page.BottomAppBar>
+        <CommandBar Height="98" Background="#FF1E88E5">
+            <AppBarButton x:ConnectionId='1' Icon="Back" Label="back"                            />
+            <AppBarButton x:ConnectionId='2' Icon="Forward" Label="next"                              />
+
+
+
+        </CommandBar>
+
+    </Page.BottomAppBar>
+
+
+    <Grid Background="White">
+        <TextBlock Margin="14,20,15,509" HorizontalAlignment="Center" TextWrapping="Wrap" FontSize="27" Text="Choose your program intensity" Foreground="#FF1E88E5"/>
+        <TextBlock Margin="460,122,463,411" TextWrapping="Wrap" HorizontalAlignment="Center" FontSize="18" Text="this will affect how hard your diet and exercice tasks get" Foreground="Black"/>
+        <ListView x:ConnectionId='3'                                                 ScrollViewer.VerticalScrollBarVisibility="Hidden" 
+                  x:Name="programList" 
+                  ItemsSource="{Binding}"  
+                  
+                  Margin="540,227,473,151" >
+            <ListView.ItemTemplate>
+
+                <DataTemplate >
+
+                    <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center" >
+
+                        <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center" >
+
+
+                            <TextBlock Text="{Binding prog}" TextWrapping="Wrap" Foreground="#FF1E88E5"  FontSize="48" HorizontalAlignment="Center"  />
+                        </StackPanel>
+                    </StackPanel>
+
+                </DataTemplate>
+
+            </ListView.ItemTemplate>
+
+
+        </ListView>
+      
+
+
+    </Grid>
+</Page>
+

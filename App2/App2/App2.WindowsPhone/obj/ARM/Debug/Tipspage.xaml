@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="App2.Tipspage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <ScrollViewer Height="655">
+        <Grid Background="White">
+            <Image VerticalAlignment="Top" x:Name="image" Source="zz.jpg" Margin="0,0,0,420"/>
+            <ListView x:ConnectionId='1' IsEnabled="False" IsItemClickEnabled="False" ScrollViewer.VerticalScrollBarVisibility="Hidden" Name="TipsList" ItemsSource="{Binding}"    Margin="27,227,27,47"                                             >
+                <ListView.ItemTemplate>
+
+                    <DataTemplate >
+
+                        <StackPanel  Orientation="Vertical" HorizontalAlignment="Left" >
+
+
+
+
+                            <TextBlock Margin="0,0,0,0" Text="{Binding title1}"  TextWrapping="Wrap"  Foreground="#FF1E88E5" FontSize="27" ></TextBlock>
+                            <TextBlock Margin="0,27,0,0" Text="{Binding desc1}"  TextWrapping="Wrap" Foreground="Black"  FontSize="19" ></TextBlock>
+                            <TextBlock Margin="0,27,0,0" Text="{Binding title2}"  TextWrapping="Wrap"  Foreground="#FF1E88E5" FontSize="27" ></TextBlock>
+                            <TextBlock Margin="0,27,0,0" Text="{Binding desc2}"  TextWrapping="Wrap" Foreground="Black"  FontSize="19" ></TextBlock>
+                            <TextBlock Margin="0,27,0,0" Text="{Binding title3}"  TextWrapping="Wrap"  Foreground="#FF1E88E5" FontSize="27" ></TextBlock>
+                            <TextBlock Margin="0,27,0,0" Text="{Binding desc3}"  TextWrapping="Wrap" Foreground="Black"  FontSize="19" ></TextBlock>
+                        </StackPanel>
+
+                    </DataTemplate>
+
+                </ListView.ItemTemplate>
+
+
+            </ListView>
+
+        </Grid>
+    </ScrollViewer>
+</Page>
+

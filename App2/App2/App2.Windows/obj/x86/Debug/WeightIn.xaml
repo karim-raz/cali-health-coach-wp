@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="App2.WeightIn"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+   >
+
+
+    <Page.BottomAppBar>
+        <CommandBar Height="93" Background="#FF1E88E5">
+
+            <AppBarButton x:ConnectionId='1' Icon="Back" Label="back"                              />
+
+            <AppBarButton x:ConnectionId='2' Icon="Forward" Label="Logbook"                            />
+
+
+
+        </CommandBar>
+
+    </Page.BottomAppBar>
+    <Grid Background="White">
+        <TextBlock x:Name="textBox" TextAlignment="Center" Margin="120,91,120,443" TextWrapping="Wrap" Text="Today" VerticalAlignment="Stretch" Foreground="#FF1E88E5" FontSize="27"/>
+        <TextBlock x:Name="today" Margin="120,142,120,402" TextWrapping="Wrap" Text="Today" VerticalAlignment="Stretch" TextAlignment="Center" Foreground="Black" FontSize="21.333"/>
+        <TextBox TextAlignment="Center"  InputScope="Number" Margin="520,325,555,377" TextWrapping="Wrap" FontSize="50"  BorderBrush="#FF1E88E5" VerticalAlignment="Stretch"/>
+        <TextBlock x:Name="today_Copy" Margin="0,544,20,0" TextWrapping="Wrap" Text="update Cali about your new Weight" VerticalAlignment="Stretch" TextAlignment="Center" Foreground="Black" FontSize="20"/>
+        <TextBlock x:Name="textBox_Copy" TextAlignment="Center" Margin="855,325,371,377" TextWrapping="Wrap" Text="Kg" VerticalAlignment="Stretch" Foreground="#FF1E88E5" FontSize="27"/>
+
+
+
+
+    </Grid>
+</Page>
+

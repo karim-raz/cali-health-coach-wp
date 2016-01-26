@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\chi\desktop\app2\app2\app2.windowsphone\obj\x86\debug\intermediatexaml\app2.windowsphone.exe" HashGuid="5ff32d2f-8f90-1d8d-0148-b24bc52f9d22" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\utilisateur\desktop\tout\esprit\4sim1\projects\cali karimrazouane chiheb manai 4sim1\cali wp\app2\packages\drawerlayout.1.0.4\lib\drawerlayout.dll" HashGuid="b0d3b3f8-90b7-6a66-b416-66f64dcf26fa" />
+    <ReferenceAssembly PathName="c:\users\utilisateur\desktop\tout\esprit\4sim1\projects\cali karimrazouane chiheb manai 4sim1\cali wp\app2\packages\newtonsoft.json.7.0.1-beta3\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="328df7c5-321a-a08e-a400-8dde727da031" />
+    <ReferenceAssembly PathName="c:\users\utilisateur\desktop\tout\esprit\4sim1\projects\cali karimrazouane chiheb manai 4sim1\cali wp\app2\packages\sqlitepcl.3.8.7.2\lib\wpa81\sqlitepcl.dll" HashGuid="a405761a-bd1d-dc16-54b5-36df2e9981c5" />
+    <ReferenceAssembly PathName="c:\users\utilisateur\desktop\tout\esprit\4sim1\projects\cali karimrazouane chiheb manai 4sim1\cali wp\app2\packages\winrtxamltoolkit.controls.datavisualization.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.controls.datavisualization.dll" HashGuid="9b581ce9-a3d5-c68e-4833-5c7b7f7772c7" />
+    <ReferenceAssembly PathName="c:\users\utilisateur\desktop\tout\esprit\4sim1\projects\cali karimrazouane chiheb manai 4sim1\cali wp\app2\packages\winrtxamltoolkit.windowsphone.1.8.1.0\lib\wpa\winrtxamltoolkit.dll" HashGuid="221e17c6-64f2-d53e-b7b5-145a2dbe921c" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

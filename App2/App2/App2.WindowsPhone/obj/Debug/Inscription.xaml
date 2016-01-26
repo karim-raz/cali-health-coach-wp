@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="App2.Inscription"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+        <CommandBar Background="#1E88E5" Height="30">
+
+            <AppBarButton x:ConnectionId='1' Icon="Back" Label="Back"                            />
+            
+
+        </CommandBar>
+
+    </Page.BottomAppBar>
+    <ScrollViewer Height="655">
+        <Grid>
+            <Image Margin="10,0,10,20" Source="first_use1.png" Stretch="Fill"/>
+            <TextBox x:Name="Username" Margin="23,188,25,625" TextWrapping="Wrap" VerticalAlignment="Stretch"/>
+            <TextBlock Margin="23,156,275,666"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="UserName"/>
+            <TextBlock Margin="23,232,275,584"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Password"/>
+            <TextBlock Margin="23,320,275,497"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Email"/>
+            <TextBlock Margin="23,408,275,400"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Age"/>
+            <TextBlock Margin="23,499,275,309"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Weight"/>
+            <TextBlock Margin="23,590,275,220"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Height"/>
+            <PasswordBox x:Name="Password" Margin="23,275,25,536"  VerticalAlignment="Stretch"/>
+            <TextBox x:Name="Email" Margin="23,357,25,454" TextWrapping="Wrap" VerticalAlignment="Stretch"/>
+            <TextBox x:Name="Age" Margin="23,454,25,357" TextWrapping="Wrap" VerticalAlignment="Stretch"/>
+            <TextBox x:Name="Weight" Margin="23,545,25,266" TextWrapping="Wrap" VerticalAlignment="Stretch"/>
+            <TextBox x:Name="Height" Margin="23,634,25,177" TextWrapping="Wrap" VerticalAlignment="Stretch"/>
+            <Button x:ConnectionId='2' Content="Submit" HorizontalAlignment="Left" Margin="266,692,0,0" VerticalAlignment="Top"                     />
+            <TextBlock Margin="23,44,247,774"  FontSize="22"  FontStyle="Normal" TextWrapping="Wrap" Text="Profil Picture"/>
+            <Image HorizontalAlignment="Left" Height="100" Margin="158,44,0,0" VerticalAlignment="Top" Width="100" Source="user_drawer.png" Stretch="Fill"/>
+
+        </Grid>
+    </ScrollViewer>
+</Page>
+
